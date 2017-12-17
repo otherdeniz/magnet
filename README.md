@@ -1,7 +1,7 @@
 
-MAGNET is a X11 POS/POW + Masternodes Network.
+DenizCoin is a NeoScrypt POS/POW + Masternodes Network.
 
-MAGNET uses libsecp256k1,
+DenizCoin uses libsecp256k1,
 			  libgmp,
 			  Boost1.55,
 			  OR Boost1.57,  
